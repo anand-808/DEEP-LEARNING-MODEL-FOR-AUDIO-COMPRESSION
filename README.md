@@ -13,7 +13,7 @@ This repository contains Jupyter Notebooks and associated files for a deep learn
 
 ## Dataset
 
-The dataset used for this project is available at [Microsoft Scalable Noisy Speech Dataset (MS-SNSD)]([https://www.microsoft.com/en-us/research/project/ms-snsd/](https://github.com/microsoft/MS-SNSD)).
+The dataset used for this project is available at [Microsoft Scalable Noisy Speech Dataset (MS-SNSD)]([https://github.com/microsoft/MS-SNSD]).
 
 
 ## Installation
